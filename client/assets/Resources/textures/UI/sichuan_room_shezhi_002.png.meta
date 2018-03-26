@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b5803d04-cd88-4bc4-9380-83cacc6ff140",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "sichuan_room_shezhi_002": {
+      "ver": "1.0.3",
+      "uuid": "8073cabd-82f3-41d9-a7a0-2905e64adc38",
+      "rawTextureUuid": "b5803d04-cd88-4bc4-9380-83cacc6ff140",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 54,
+      "height": 55,
+      "rawWidth": 54,
+      "rawHeight": 55,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
